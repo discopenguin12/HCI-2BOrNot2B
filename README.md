@@ -1,4 +1,4 @@
-# Projcet Name: Swole Patrol
+# Project Name: Swole Patrol
 
 This is a fitness application in which people from all skill level (beginner to experts)
 This application will allow the user to set up their workout routine for each day.
@@ -9,7 +9,7 @@ other people out. We also plan on having a competition feature to motivate users
 ## Swole Patrol Team:
 * Danny Lopez
 * Mary Claire Hodge
-* Rebecca Bennet
+* Rebecca Bennett
 * Huzaifah Aamir     
 * Jeremy Balemala
 
