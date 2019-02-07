@@ -8,7 +8,7 @@ other people out. We also plan on having a competition feature to motivate users
 
 ## Swole Patrol Team:
 * Danny Lopez
-* Clair Hodge
+* Mary Claire Hodge
 * Rebecca Bennet
 * Huzaifah Aamir     
 * Jeremy Balemala
