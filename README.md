@@ -1,37 +1,22 @@
+Projcet Name: Swole Patrol
+
+This is a fitness application in which people from all skill level (beginner to experts)
+This application will allow the user to set up their workout routine for each day.
+They will have a wide variety of choices to choose from, and it can be randomly chosen for them.
+There will be a forum in which they can communicate with other people who can share ideas and help
+other people out. We also plan on having a competition feature to motivate users to workout out more.
+
+Swole Patrol Team:
+Danny Lopez
+Clair Hodge
+Rebecca Bennet
+Huzaifah
+Jeremy
+
+This repository contains information relating to the application such as code, research, and documentations.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/discopenguin12/HCI-2BOrNot2B/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/discopenguin12/HCI-2BOrNot2B/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

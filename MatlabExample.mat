@@ -1,0 +1,34 @@
+#Matlab
+
+>>syms x y
+>>y = taylor(sin(x))
+
+y = 
+
+#results# x^5/120 - x^3/6 + x^3/6
+
+
+>>y = taylor(sin(x), x, 'ExpansionPoint', 1, 'order', 10)
+
+#results# lot of sin
+
+>>subs(y, x, 0.1)
+
+>>ans = #prints out answer
+
+>>eval(ans)
+
+ans = #prints out answer
+
+>> syms x(t)
+>> x(t) = dsolve(diff(x, t) == x+t)
+>> x(t) = dsolve(diff(x, t, t) == cos(2*t) - x + x*t, x(0) == 1, D(x) == 0)
+#prints results
+>> x(t) = dsolve(diff(x, t) == x+t)
+>> x(t) = dsolve(diff(x, t) == x+t)
+#results are printed
+
+x(t) = dsolve(diff(x,t) == x+t+x^2, x(0) == 1)
+
+sol = mupadDsolve(args, options);
+
