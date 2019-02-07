@@ -10,13 +10,13 @@ allows you to do just that! The more you work out, the more points you get. Try 
 ## Milestones
 Here are the milestons below
 * Milestone 0
-	* [PDF Link] (Milestone0_Swole.pdf)
+	* [PDF Link](Milestone0_Swole.pdf)
 * Milestone 1
 * Milestone 2
 
 ## Studio Presentation
 
 * P1 Studio
-	* [Presentation Link] (HCI Fitness Pres. SwolePatrol.pptx)
+	* [Presentation Link](HCI Fitness Pres. SwolePatrol.pptx)
 * P2 Studio
-	* [Link] (http://www.github.com)
+	* [Link](http://www.github.com)
