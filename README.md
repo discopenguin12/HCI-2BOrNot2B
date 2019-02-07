@@ -13,4 +13,6 @@ other people out. We also plan on having a competition feature to motivate users
 * Huzaifah Aamir     
 * Jeremy Balemala
 
+##Link to website
+[Website](https://discopenguin12.github.io/HCI-2BOrNot2B/)
 This repository contains information relating to the application such as code, research, and documentations.
