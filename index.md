@@ -12,6 +12,7 @@ Here are the milestons below
 * Milestone 0
 	* [PDF Link](Milestone0_Swole.pdf)
 * Milestone 1
+	* [PDF Link](HCI Milestone 1_ Report.pdf)
 * Milestone 2
 
 ## Studio Presentation
