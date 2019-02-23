@@ -15,6 +15,7 @@ Here are the milestons below
 	* [PDF Link](HCI Milestone 1_ Report.pdf)
 * Milestone 2
 	* [PDF Link](HCI Milestone 2_ Report.pdf)
+	
 ## Studio Presentation
 
 * P1 Studio
