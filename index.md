@@ -17,6 +17,7 @@ Here are the milestons below
 	* [PDF Link](HCI Milestone 2_ Report.pdf)
 * Milestone 3
 	* [PDF Link]
+	* [PDF Evaluation](Milestone 3- Evaluation Plan.pdf)
 	
 ## Studio Presentation
 
@@ -24,5 +25,5 @@ Here are the milestons below
 	* [Presentation Link](HCI Fitness Pres. SwolePatrol.pptx)
 * P2 Studio
 	* [Link](http://www.github.com)
-* P2 Studio
+* P3 Studio
 	* [Link](https://xd.adobe.com/view/39d4079c-bd87-40a3-6ff7-857e5f4c68e6-4fe5/?fullscreen&hints=off)
