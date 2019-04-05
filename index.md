@@ -16,7 +16,7 @@ Here are the milestons below
 * Milestone 2
 	* [PDF Link](HCI Milestone 2_ Report.pdf)
 * Milestone 3
-	* [PDF Link]
+	* [PDF Link](HCI Milestone 3_ Report)
 	* [PDF Evaluation](Milestone 3- Evaluation Plan.pdf)
 	
 ## Studio Presentation
