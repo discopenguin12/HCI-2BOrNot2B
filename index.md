@@ -7,6 +7,10 @@ If you need help to choose which routine to work out a certain body part, this a
 We have a forum in which users can communicate with one another for tips and aid. Lastly, do you like to compete with friends? This application
 allows you to do just that! The more you work out, the more points you get. Try to see if you can beat your friends!
 
+##App Link
+Here is a link to the application to try it out for yourself!
+[APP LINK](https://xd.adobe.com/view/39d4079c-bd87-40a3-6ff7-857e5f4c68e6-4fe5/?fullscreen&hints=off)
+
 ## Milestones
 Here are the milestons below
 * Milestone 0
